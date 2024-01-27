@@ -1,0 +1,108 @@
+* {
+    /* background-color: black; */
+    margin: 0px;
+    padding: 0px;
+  }
+  .container{
+    background-color: black;
+   position: relative;
+   font-size: 15px;
+  }
+  .nav1,
+  ul {
+    list-style: none;
+    display: inline-block;
+    color: white;
+    position: relative;
+  }
+  .u1 {
+    position: relative;
+    bottom: 22px;
+    left: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .u2 {
+    position: relative;
+    bottom: 22px;
+    left: 180px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .u3 {
+    position: relative;
+    bottom: 22px;
+    left: 220px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .u4 {
+    position: relative;
+    bottom: 22px;
+    left: 260px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .u5 {
+    position: relative;
+    bottom: 22px;
+    left: 310px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .u6 {
+    position: relative;
+    bottom: 22px;
+    left: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .u7 {
+    position: relative;
+    bottom: 22px;
+    left: 390px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+ 
+  .u8 {
+    position: relative;
+    bottom: 22px;
+    left: 440px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .nav1,
+  img {
+    position: relative;
+    left: 35px;
+    top: 5px;
+  }
+  .btn{
+      position: relative;
+    bottom: 22px;
+    left: 470px;
+      background-color: red;
+      color: white;
+      border-radius: 25px;
+      height: 40px;
+      width: 140px;
+  }
+ .btnspan{
+    background-color: white;
+    color: #dc3545;
+    padding: 6px 7px;
+    border-radius: 23px;
+    margin-left: 7px;
+ }
+ .cont{
+   background-color: #000000f0;
+   color: white;
+    height: 100px;
+    width: 100%;
+}
+.menu{
+    text-align: center;
+    position: relative;
+    top: 7px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    opacity: 0.2;
+}
+.maindiv{
+    background-color: black;
+    height: 465px;
+}
