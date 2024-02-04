@@ -1,12 +1,12 @@
 * {
     /* background-color: black; */
     margin: 0px;
-    padding: 0px;
+    padding: 0px
   }
   .container{
     background-color: black;
    position: relative;
-   font-size: 15px;
+   font-size: 13px;
   }
   .nav1,
   ul {
@@ -18,43 +18,43 @@
   .u1 {
     position: relative;
     bottom: 22px;
-    left: 140px;
+    left: 80px;
     font-family: Arial, Helvetica, sans-serif;
   }
   .u2 {
     position: relative;
     bottom: 22px;
-    left: 180px;
+    left: 130px;
     font-family: Arial, Helvetica, sans-serif;
   }
   .u3 {
     position: relative;
     bottom: 22px;
-    left: 220px;
+    left: 180px;
     font-family: Arial, Helvetica, sans-serif;
   }
   .u4 {
     position: relative;
     bottom: 22px;
-    left: 260px;
+    left: 220px;
     font-family: Arial, Helvetica, sans-serif;
   }
   .u5 {
     position: relative;
     bottom: 22px;
-    left: 310px;
+    left: 270px;
     font-family: Arial, Helvetica, sans-serif;
   }
   .u6 {
     position: relative;
     bottom: 22px;
-    left: 350px;
+    left: 308px;
     font-family: Arial, Helvetica, sans-serif;
   }
   .u7 {
     position: relative;
     bottom: 22px;
-    left: 390px;
+    left: 348px;
     font-family: Arial, Helvetica, sans-serif;
     
   }
@@ -62,19 +62,19 @@
   .u8 {
     position: relative;
     bottom: 22px;
-    left: 440px;
+    left: 390px;
     font-family: Arial, Helvetica, sans-serif;
   }
   .nav1,
   img {
     position: relative;
-    left: 35px;
+    left: 15px;
     top: 5px;
   }
   .btn{
       position: relative;
     bottom: 22px;
-    left: 470px;
+    left: 425px;
       background-color: red;
       color: white;
       border-radius: 25px;
@@ -102,7 +102,11 @@
     font-size: 60px;
     opacity: 0.2;
 }
-.maindiv{
+.list{
     background-color: black;
     height: 465px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    justify-content:space-around;
 }
